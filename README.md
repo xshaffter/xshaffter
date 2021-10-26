@@ -1,16 +1,38 @@
-### Hi there 👋
+<h2> Hey there! I'm Alfredo.</h2>
 
-<!--
-**xshaffter/xshaffter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+I'm a Back-end with a couple years of experience creating projects for a various kind of companies, with large data management 
 
-Here are some ideas to get you started:
+I'm a software developer with a couple years of experience building projects for all kind of companies, since small ones to international enterprises with hundreds of employees.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤓 &nbsp; Always trying learning more about technology and variety stuff.
+- 🧐 &nbsp; If you need some help don't be afraid to reach me, I really enjoy teaching.
+- ⌨️ &nbsp; Casual Hollow knight modder.
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+```javascript
+const techStack = {
+   code: ["Python", "Javascript", "Java", "Kotlin", "C#"],
+   technologies: {
+      frontEnd: {
+         js: ["AngularJS"],
+         css: ["Materialize", "Bootstrap"]
+      },
+      backEnd: {
+         python: ["Django"],
+      },
+      databases: ["MySQL", "PostgreSQL"],
+      workflow: ["Linux", "GitHub"],
+      management: ["Scrum", "YouTrack"]
+   },
+   currentOccupation: ["Occassional modder for Hollow Knight game"],
+};
+```
+
+<br />
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xshaffter&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xshaffter&theme=buefy&layout=compact" />
+</a>
