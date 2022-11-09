@@ -4,7 +4,7 @@
 
 <br/>
 
-**I'm a Back-end with 2 years of experience creating projects for a various kind of companies, with large data
+**I'm a Back-end with 4 years of experience creating projects for a various kind of companies, with large data
 management and likes to make libraries**
 
 - I'm always trying to reduce de quantity of work I have to do for a certain action.
