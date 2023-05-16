@@ -7,10 +7,12 @@
 **I'm a Back-end with 2 years of experience creating projects for a various kind of companies, with large data
 management and likes to make libraries**
 
+**I'm also a data engineer with 1 year of experience**
+
 - I'm always trying to reduce de quantity of work I have to do for a certain action.
 - I don't like to copy-paste code.
 - Learning on how to explain things.
-- Regular Hollow knight modder.
+- I love learning new things and technologies.
 - My contact: <a href="mailto:xshaffter@gmail.com">xshaffter@gmail.com</a> in case u need something
 
 ## Technologies I like to use
@@ -21,6 +23,9 @@ management and likes to make libraries**
 - Django Rest Framework (<b>DRF</b>)
 - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/fastapi.svg" height="20" alt="fastapi"> FastAPI
 - SQLAlchemy
+- Pandas + numpy
+- PySpark
+- Airflow
 
 # <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="C#"> C Sharp
 
@@ -28,11 +33,22 @@ management and likes to make libraries**
 - <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/602d1305678a8d5fdb372271e980da6a.ico" height="20"> HK Modding with <a href="https://github.com/hk-modding/api">HK modding api</a>
 - <img src="https://avatars.githubusercontent.com/u/50454447?s=200&v=4" height="20"> BIA.Net
 
+# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java"> Java
+- Fabric API
+- Spiggot/Paper
+
 # <img src="https://blog.desafiolatam.com/wp-content/uploads/2018/05/sql-logo.png" height="40">Databases
 
 - <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="20"> SQLite
 - <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="20"> PostgreSQL
 - <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="20"> MySQL
+
+# Data warehousing
+- Snowlfake
+
+# Reporting
+- Tableau
+- PowerBI
 
 <br/>
 
